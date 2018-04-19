@@ -1,0 +1,277 @@
+/*COMMON CLASS*/
+body{
+    min-height: 1200px;
+    background-image: url(../images/background.jpg);
+    background-position: center;
+    background-size: cover;
+    font-family: 'Dosis', sans-serif;
+    
+}
+
+.common_margin_top{
+    margin-top: 100px;
+    
+}
+
+.common_margin_bottom{
+    margin-bottom: 80px;
+    
+}
+
+.margin_top_bottom{
+    margin: 50px 0;
+}
+
+.common_color{
+    color: white;
+    
+}
+
+.custom_head{
+    background-color: #241F3D;
+    
+}
+
+
+
+/*-----------------*/
+header{
+    min-height: 582px;
+    background-image: url(../images/bannar.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+
+.custom_nav a{
+    color: white !important;
+    
+}
+
+.question{
+    color: white;
+    margin-top: 152px;
+    margin-bottom: 22px;
+    font-size: 23px;
+    
+}
+
+.answer{
+    color: white;
+    font-size: 67px;
+    margin-bottom: 50px;
+    
+}
+
+.learn_more{
+    text-decoration: none !important;
+    color: white !important;
+    font-size: 20px;
+    border: 1px solid;
+    padding: 9px 40px;
+    margin-bottom: 20px !important;
+    
+}
+
+/*WEB DEVELOPMENT----------------------*/
+
+.web_development{
+    min-height: 440px;
+    
+}
+
+.discription{
+        
+}
+
+.discription h1{
+    
+}
+
+.title{
+    font-weight: 100;
+    text-shadow: 0 3px 5px;
+    margin-bottom: 50px;
+    
+}
+
+.bold_span{
+    font-weight: 900;
+}
+
+.discription p{
+    text-align: justify;
+}
+
+.discription a{
+    text-decoration: none;
+    color: black;
+}
+
+
+/*Identity Start---------------------*/
+
+.identity{
+    min-height: 440px;
+    background-image: url(../images/background_ass_color.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+/*DEPERTMENT---------------------*/
+
+.depertment{
+    min-height: 600px;
+    
+}
+
+.depertment a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.icon_circle{
+    padding: 23px 27px;
+    font-size: 47px;
+    background: black;
+    color: white;
+    width: 105px;
+    height: 105px;
+    border-radius: 50%;
+}
+
+
+.depertment h3{
+    text-shadow: 0 3px 5px;
+}
+
+.depertment p{
+    
+}
+
+/*clients------------------------------------*/
+
+.clients{
+    min-height: 800px;
+    background-image: url(../images/background_ass_color.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+
+.clients a{
+    text-decoration: none;
+    color: black;
+}
+
+.box{
+    min-height: 170px;
+    width: 100%;
+    background-color: white;
+    position: relative;
+    z-index: +999;
+    padding: 34px 29px;
+    text-align: justify;
+    
+}
+
+.left_arrow{
+    position: absolute;
+    min-height: 100px;
+    width: 100px;
+    transform: rotate(45deg);
+    background-color: white;
+    margin-top: -147px;
+    left: 0;
+    
+}
+
+.right_arrow{
+    position: absolute;
+    min-height: 100px;
+    width: 100px;
+    transform: rotate(45deg);
+    background-color: white;
+    margin-top: -147px;
+    right: 0;
+}
+
+.color{
+    color: blue;
+    
+}
+
+.client{
+    border-radius: 50%;
+    
+}
+
+
+/*BRAND START--------------------------*/
+.brand{
+    min-height: 142px;
+    
+}
+
+/*TEAM START-----------------------*/
+
+.team{
+    min-height: 800px;
+    background-color: #111111;
+    
+}
+
+.team a{
+    text-decoration: none;
+    color: white;
+}
+
+.team_info{
+    color: white;
+    margin: 21px 0;
+    
+}
+
+.team_info a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+.icon_round {
+    border: 2px solid white;
+    padding: 15px 17px;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+/*FOOTER START_--------------------*/
+
+footer{
+    min-height: 531px;
+    background-color: #768FC5;
+    
+    
+}
+
+.team_member{
+    box-shadow: 0 0px 7px 2px grey;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
